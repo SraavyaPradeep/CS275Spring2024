@@ -1,1 +1,2 @@
-# CS275Spring2024
+# CS 275 Spring 2024 Final Project
+
